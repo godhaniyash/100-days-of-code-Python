@@ -24,4 +24,4 @@ print(f"Filtered:{filtered}")
 reduced = reduce(lambda x,y:x+y,squared)
 print(f"Reduced:{reduced}")
 # 4. Import reduce from functools.
-# 5. Print all three results.
+# 5. Print all three results.k
