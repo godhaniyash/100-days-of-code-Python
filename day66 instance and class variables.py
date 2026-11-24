@@ -31,3 +31,4 @@ print(em2.raise_amount())
 print(em3.name())
 print(em3.comp_name())
 print(em3.raise_amount())
+# theme of vs code:github dark default
